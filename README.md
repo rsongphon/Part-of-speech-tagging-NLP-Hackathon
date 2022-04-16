@@ -25,3 +25,6 @@ Method 2: Bi-LSTM-CRF
 Framework use : Keras
 
 Deep learning approach using bi-directional LSTM and inferece using conditional random field. achive almost the same accuarcy as transformer but have word embedding size problem
+
+
+This hackathon recive 2nd place
